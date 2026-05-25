@@ -1,0 +1,13 @@
+{
+  "name": "auto-build",
+  "version": "1.0.0",
+  "description": "Project with auto build and release",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building...'; mkdir -p dist; cp index.js dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
