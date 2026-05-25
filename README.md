@@ -36,3 +36,4 @@ Khi bạn push một tag có định dạng `v*` (ví dụ `v1.0.0`), GitHub Act
 - Chạy lệnh `npm install` và `npm run build`.
 - Nén project lại thành file `release.zip`.
 - Tạo một GitHub Release và đính kèm file `release.zip` vào đó.
+# auto-build
